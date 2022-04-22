@@ -1,4 +1,6 @@
-[![Build Status](https://app.travis-ci.com/Sesethu24/api-creation-workshop.svg?branch=main)](https://app.travis-ci.com/Sesethu24/api-creation-workshop)
+[![Build Status](https://app.travis-ci.com/Sesethu24/api-creation-workshop.svg?branch=main)](https://app.travis-ci.com/Sesethu24/api-creation-workshop)   
+![node workflow](https://github.com/Sesethu24/psql-refresher-workshop/actions/workflows/api-test.js.yml/badge.svg)
+
 # psql refresher workshop
 
 Fix all the failing tests. An refresh your sql knowledge in the process.
